@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project source="3.9.0" version="1.0">
-  This file is intended to be loaded by Logisim-evolution v3.9.0(https://github.com/logisim-evolution/).
+<project source="3.8.0" version="1.0">
+  This file is intended to be loaded by Logisim-evolution v3.8.0(https://github.com/logisim-evolution/).
 
   <lib desc="#Wiring" name="0">
     <tool name="Pin">
@@ -169,7 +169,9 @@
     <wire from="(520,540)" to="(630,540)"/>
     <wire from="(540,370)" to="(540,550)"/>
     <wire from="(540,370)" to="(610,370)"/>
-    <wire from="(540,550)" to="(1000,550)"/>
+    <wire from="(540,550)" to="(590,550)"/>
+    <wire from="(590,480)" to="(590,550)"/>
+    <wire from="(590,480)" to="(730,480)"/>
     <wire from="(610,360)" to="(610,370)"/>
     <wire from="(610,360)" to="(620,360)"/>
     <wire from="(610,380)" to="(610,420)"/>
@@ -177,10 +179,8 @@
     <wire from="(610,420)" to="(630,420)"/>
     <wire from="(630,390)" to="(630,420)"/>
     <wire from="(630,420)" to="(630,540)"/>
-    <wire from="(630,540)" to="(660,540)"/>
+    <wire from="(630,540)" to="(1000,540)"/>
     <wire from="(650,370)" to="(790,370)"/>
-    <wire from="(660,480)" to="(660,540)"/>
-    <wire from="(660,480)" to="(730,480)"/>
     <wire from="(710,520)" to="(730,520)"/>
     <wire from="(760,420)" to="(770,420)"/>
     <wire from="(770,380)" to="(770,420)"/>
@@ -190,8 +190,8 @@
     <wire from="(80,320)" to="(790,320)"/>
     <wire from="(80,430)" to="(220,430)"/>
     <wire from="(80,560)" to="(150,560)"/>
-    <wire from="(820,480)" to="(820,540)"/>
-    <wire from="(820,540)" to="(1000,540)"/>
+    <wire from="(820,480)" to="(820,550)"/>
+    <wire from="(820,550)" to="(1000,550)"/>
     <wire from="(940,610)" to="(950,610)"/>
     <wire from="(950,560)" to="(1000,560)"/>
     <wire from="(950,560)" to="(950,610)"/>
